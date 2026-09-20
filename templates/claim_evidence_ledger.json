@@ -1,0 +1,12 @@
+[
+  {
+    "claim_id": "CLM-001",
+    "claim": "Replace with one manuscript-level factual or literature claim.",
+    "source_ids": ["SRC-001"],
+    "support_level": "UNRESOLVED",
+    "population_match": "UNRESOLVED",
+    "construct_match": "UNRESOLVED",
+    "outcome_match": "UNRESOLVED",
+    "review_notes": []
+  }
+]
