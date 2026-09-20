@@ -1,0 +1,31 @@
+{
+  "title": "TBD",
+  "population": "TBD",
+  "research_design": "TBD",
+  "variables": [
+    {
+      "name": "Predictor / exposure",
+      "role": "predictor",
+      "construct": "TBD",
+      "operational_definition": "TBD",
+      "measurement_scale": "TBD",
+      "instrument": "TBD",
+      "scoring": "TBD",
+      "status": "unresolved"
+    },
+    {
+      "name": "Outcome",
+      "role": "outcome",
+      "construct": "TBD",
+      "operational_definition": "TBD",
+      "measurement_scale": "TBD",
+      "instrument": "TBD",
+      "scoring": "TBD",
+      "status": "unresolved"
+    }
+  ],
+  "theory_links": [],
+  "planned_tests": [],
+  "confounders": [],
+  "authority_notes": []
+}
