@@ -1,0 +1,72 @@
+{
+  "title": "Conditioning practices and perceived effectiveness in relation to tennis-specific performance among university lawn tennis players",
+  "population": "University lawn tennis student-athletes",
+  "research_design": "Quantitative descriptive-correlational",
+  "variables": [
+    {
+      "name": "Conditioning exposure",
+      "role": "predictor",
+      "construct": "Physical conditioning exposure",
+      "operational_definition": "TBD: decide whether exposure means frequency, duration, intensity, adherence, training load, or a justified composite.",
+      "measurement_scale": "TBD",
+      "instrument": "TBD",
+      "scoring": "TBD",
+      "status": "unresolved"
+    },
+    {
+      "name": "Perceived effectiveness",
+      "role": "predictor",
+      "construct": "Athlete evaluation of conditioning effectiveness",
+      "operational_definition": "TBD: construct boundaries and recall period require authority.",
+      "measurement_scale": "TBD",
+      "instrument": "TBD: validated/adapted or researcher-developed instrument decision required.",
+      "scoring": "TBD",
+      "status": "unresolved"
+    },
+    {
+      "name": "Tennis-specific performance",
+      "role": "outcome",
+      "construct": "Objective tennis-specific performance",
+      "operational_definition": "TBD: decide whether serve velocity, serve accuracy, agility, or separate outcomes are used.",
+      "measurement_scale": "TBD",
+      "instrument": "TBD",
+      "scoring": "TBD: no composite may be invented without justification.",
+      "status": "unresolved"
+    }
+  ],
+  "theory_links": [
+    {
+      "theory": "Self-Determination Theory",
+      "construct": "Perceived competence / motivation relationship",
+      "variable": "Perceived effectiveness",
+      "evidence_ids": ["SRC-SDT-001"],
+      "status": "unresolved"
+    },
+    {
+      "theory": "Achievement Goal Theory",
+      "construct": "Achievement orientation",
+      "variable": "Perceived effectiveness",
+      "evidence_ids": [],
+      "status": "unresolved"
+    }
+  ],
+  "planned_tests": [
+    {
+      "test": "TBD: correlation/regression decision follows finalized variables and scales",
+      "variables": ["Conditioning exposure", "Tennis-specific performance"],
+      "assumptions": [],
+      "rationale": "TBD",
+      "status": "unresolved"
+    }
+  ],
+  "confounders": [
+    "playing experience",
+    "competition level",
+    "training volume",
+    "injury status"
+  ],
+  "authority_notes": [
+    "This case is anonymized and contains no original source-paper text.",
+    "It intentionally fails gates so the bootstrap demonstrates that polished prose cannot bypass unresolved research decisions."
+  ]
+}
